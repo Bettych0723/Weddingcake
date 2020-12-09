@@ -10334,7 +10334,7 @@ html.side-panel.side-panel-open.side-panel-push.side-panel-right .body {
 	background-repeat: no-repeat;
 	background-size: 100%;
 	background-position: center;
-	opacity: 0.75;
+	/* opacity: 0.75; */
 	transition: 1s;
 	
 }
